@@ -5,7 +5,7 @@ public class ListExample {
 
   public static void main(String[] args) {
     printListAsUpperCase(Arrays.asList
-                         (new String[]{"Abba", "Europe", "Ace of Base"})
+                         (new String[]{"AbbA", "Europe", "Ace of Base"})
                          );
   }
 
